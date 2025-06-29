@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @RON-000000
 - 👀 I’m interested in everithing IT and creating with a Camera
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ronschwarz.ch
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: My favorite color is Orange
 
 <!---
